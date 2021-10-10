@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dianamohirta
+- 👀 I’m interested in Java (with Spring, Camel and Kafka)
+- 🌱 I’m currently learning JavaScript (with React)
+- 💞️ I’m looking to collaborate on preferably backend side-projects
+- 📫 How to reach me (will update this later)
